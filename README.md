@@ -1,5 +1,7 @@
 ### Hi there 👋
 2020年新工科联盟-Xilinx暑期学校（Summer School）项目。
+源码：whyengineer/esp32_baidu_rest
+可执行文件：whyengineer/esp32_baidu_rest
 <!--
 **wry2018112758/wry2018112758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
